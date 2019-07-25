@@ -2,7 +2,8 @@
 
 ## About :smirk:
 
-This is repo with compilation of my training and testing examples, that will make me a ~~best~~ good Data Scientist ~~in the world~~ :muscle:
+This is repo with compilation of my training and testing examples, 
+that will make me a ~~best~~ good Data Scientist ~~in the world~~ :muscle:
 
 There will be many folders with different py-librares :closed_book:
 
