@@ -1,7 +1,5 @@
 # My DataScience :fire:
 
-## About :smirk:
-
 This is repo with compilation of my training and testing examples :bulb:
 
 That will make me a ~~best~~ good Data Scientist ~~in the world~~ :muscle:
