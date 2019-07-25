@@ -1,4 +1,4 @@
-# My DataScience :godmode:
+# My DataScience :fire:
 
 ## About :smirk:
 
