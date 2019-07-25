@@ -15,7 +15,7 @@ There will be many folders with different py-librares :closed_book:
 Introduction to Machine Learning with Python
 by Andreas C. Mueller and Sarah Guido
 
-![book](https://images-na.ssl-images-amazon.com/images/I/51dP9jGr0VL._SX379_BO1,204,203,200_.jpg)
+![book](https://github.com/andybeardness/My_DataScience/blob/master/sklearn/book_img/book.jpg?raw=true)
 
 ### Navigation
 
