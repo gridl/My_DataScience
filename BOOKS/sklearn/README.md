@@ -5,7 +5,7 @@
 Introduction to Machine Learning with Python
 by Andreas C. Mueller and Sarah Guido
 
-![book](https://github.com/andybeardness/My_DataScience/blob/master/sklearn/book_img/book.jpg?raw=true)
+![book](https://github.com/andybeardness/My_DataScience/blob/master/BOOKS/sklearn/book_img/book.jpg?raw=true)
 
 ### Navigation
 
